@@ -1,0 +1,7 @@
+sudo apt update
+sudo apt upgrade
+sudo apt install nodejs
+sudo apt install npm
+sudo npm init -y
+sudo npm install
+sudo reboot
